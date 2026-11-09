@@ -1,0 +1,6 @@
+{
+  "name": "نظریار",
+  "description": "اپلیکیشن مدیریت پروژه و گزارش‌دهی مهندسین ناظر ساختمان",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
